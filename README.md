@@ -4,6 +4,9 @@
 
 This project implements a hand gesture recognition system to control the system volume using a webcam. The system uses MediaPipe for hand landmark detection and a Random Forest classifier to predict hand gestures. The predicted gestures are then used to adjust the system volume gradually.
 
+## Project Overview
+![Hand_Volume_Controller_Demo](gifs/demo.gif)
+
 ## Features
 
 - **Hand Landmark Detection**: Utilizes MediaPipe to detect hand landmarks in real-time.
